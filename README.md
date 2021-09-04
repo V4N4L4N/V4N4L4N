@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @V4N4L4N
 - 👀 I’m interested in graphics, and texture pack making
-- 🌱 I’m currently learning some english
+- 🌱 I’m currently learning some programming
 - 💞️ I’m looking to collaborate on texture pack makers
 - 📫 How to reach me ...
 
